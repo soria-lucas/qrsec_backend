@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ar.edu.um.qrsec</groupId>
-	<artifactId>qrsec-backend</artifactId>
+	<artifactId>qrsec_backend</artifactId>
 	<version>1.2.0</version>
 	<name>qrsec-backend</name>
 	<description>Proyecto Final de Grado (Tesis)</description>
